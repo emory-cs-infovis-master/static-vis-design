@@ -11,7 +11,7 @@ Use the dataset **movies2007-2012.csv** to **create a table** that presents its 
 Use the dataset **gender-pay-gap-US-2014.csv** to **create a graph** that presents its information as clearly and informatively as possible.
 
 ## Submission:
-Your document should be in PDF format and with your submission for part 1 and part 2 on pages 1 and 2, respectively. Use Times Roman 11 point type with normal margins, 1.5 line spacing. 
+Your document should be in PDF format and with your submission for part 1 and part 2 on pages 1 and 2, respectively. For all assignments involving written reports, use Times Roman 11 point type with normal margins, 1.5 line spacing. 
 
 ## Grading:
 Based on 
