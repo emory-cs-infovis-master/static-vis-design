@@ -10,6 +10,19 @@ Use the dataset **movies2007-2012.csv** to **create a table** that presents its 
 ## 2. Create a graph:
 Use the dataset **gender-pay-gap-US-2014.csv** to **create a graph** that presents its information as clearly and informatively as possible.
 
+## FAQ:
+1. Q: Do I need to represent *all* rows and *all* columns? 
+A: No. Consider what is important to convey your design, and make sure you show that at a minimum -- it should not be overly simplistic.
+
+2. Q: Does the graph need to be accurate? 
+A: No. We are not going to check if you positioned points precisely. Again, the goal of the assignment is to convey your design idea. 
+
+3. Q: Can I use python to generate charts? 
+A: No. 
+
+4. Q: Can I use Excel to inspect / analyze data? 
+A: Sure. But the design you turn in should not be produced through a spreadsheet program. 
+
 ## Submission:
 Your document should be in PDF format and with your submission for part 1 and part 2 on pages 1 and 2, respectively. You may wish to provide justification for your designs in 1-2 sentences. For all assignments involving written reports, use Times Roman 11 point type with normal margins, 1.5 line spacing. 
 
