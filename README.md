@@ -32,6 +32,8 @@ A: Sure. But the design you turn in should not be produced through a spreadsheet
 ## Submission:
 Your document should be in PDF format and with your submission for part 1 and part 2 on pages 1 and 2, respectively. You may wish to provide justification for your designs in 1-2 sentences. For all assignments involving written reports, use Times Roman 11 point type with normal margins, 1.5 line spacing. 
 
+While you shouldn't spend inordinate amounts of time getting a pixel-perfect table and chart, your submission should be neat, tidy, and aesthetic. (We'll learn more throughout the semester about what "aesthetic" means).
+
 ## Grading:
 Based on 
 - [30%] Appropriate choice of visual encodings
