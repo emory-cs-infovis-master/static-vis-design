@@ -2,6 +2,8 @@
 
 Design a static visualization for the given datasets (sketch on paper or use a digital design tool, such as PowerPoint / Keynote). You may **not** use auto-generated charts in tools like Microsoft Excel or Tableau. The purpose of this assignment is to practice designing data tables and graphs that (i) communicate effectively and (ii) are aesthetically pleasing. Included are two spreadsheets. Think about the data in each spreadsheet and what an analyst looking at that data would care about. You are allowed to derive new variables (attributes) that are combinations of the given ones, but you cannot make up totally new variables or values. 
 
+The datasets include **atl-crime-2020.csv** from [APD Open Data](https://opendata.atlantapd.org) and **gender-pay-gap-US-2014.csv** from [US Census Bureau](https://www.census.gov/).
+
 The assignment has two parts:
 
 ## 1. Create a table:
