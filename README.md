@@ -5,10 +5,10 @@ Design a static visualization for the given datasets (sketch on paper or use a d
 The assignment has two parts:
 
 ## 1. Create a table:
-Use the dataset **movies2007-2012.csv** to **create a table** that presents its information as clearly and informatively as possible.
+Use the dataset **gender-pay-gap-US-2014.csv** to **create a table** that presents its information as clearly and informatively as possible.
 
 ## 2. Create a graph:
-Use the dataset **gender-pay-gap-US-2014.csv** to **create a graph** that presents its information as clearly and informatively as possible.
+Use the dataset **atl-crime-2020.csv** to **create a graph** that presents its information as clearly and informatively as possible.
 
 ## FAQ:
 1. **Q: Do I need to represent *all* rows and *all* columns?**
