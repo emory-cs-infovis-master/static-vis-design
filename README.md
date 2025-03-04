@@ -9,7 +9,7 @@ The assignment has two parts:
 ## 1. Create a table:
 Use the dataset **gender-pay-gap-US-2014.csv** to **create a table** that presents its information as clearly and informatively as possible.
 
-## 2. Create a graph:
+## 2. Create a chart:
 Use the dataset **atl-crime-2020.csv** to **create a graph** that presents its information as clearly and informatively as possible.
 
 ## FAQ:
@@ -30,13 +30,14 @@ A: No.
 A: Sure. But the design you turn in should not be produced through a spreadsheet program. 
 
 ## Submission:
-Your document should be in PDF format and with your submission for part 1 and part 2 on pages 1 and 2, respectively. You may wish to provide justification for your designs in 1-2 sentences. For all assignments involving written reports, use Times Roman 11 point type with normal margins, 1.5 line spacing. 
+Your document should be in PDF format and with your submission for part 1 and part 2 on pages 1 and 2, respectively. You must provide justification for your designs in 1-2 paragraphs. For all assignments involving written reports, use Times Roman 11 point type with normal margins, 1.5 line spacing. 
 
 While you shouldn't spend inordinate amounts of time getting a pixel-perfect table and chart, your submission should be neat, tidy, and aesthetic. (We'll learn more throughout the semester about what "aesthetic" means).
 
 ## Grading:
 Based on 
-- [30%] Appropriate choice of visual encodings
-- [20%] Effective execution
+- [30%] Appropriate choice of visual encodings (use of spacing, borders, fonts, formatting, etc. for the table; use of color, labels, legends, etc. for the chart)
+- [15%] Effective execution
+- [5%] Justification
 
-each, for the table and the graph.
+each, for the table and the chart.
